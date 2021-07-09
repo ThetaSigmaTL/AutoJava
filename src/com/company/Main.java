@@ -6,7 +6,7 @@ public class Main {
 	    System.out.println("11111");
         System.out.print("23432");
         System.out.print(",,,,,,,,,");
-        System.out.print("ahahahaha");
+        System.out.print("ahaa");
 
     }
 
